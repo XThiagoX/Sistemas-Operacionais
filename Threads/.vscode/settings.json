@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "MATRIX.C": "cpp",
+        "MATRIX2.C": "cpp",
+        "matriz2.C": "cpp"
+    }
+}

@@ -1,0 +1,8 @@
+    thread1.limit[0]=0;
+    thread1.limit[1]=124;
+    thread2.limit[0]=125;
+    thread2.limit[1]=250;
+    thread3.limit[0]=251;
+    thread3.limit[1]=376;
+    thread4.limit[0]=377;
+    thread4.limit[1]=499;
